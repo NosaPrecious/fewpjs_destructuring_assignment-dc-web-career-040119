@@ -19,6 +19,8 @@ const muppet = {
   job: 'Host of The Muppet Show',
   partner: 'Miss Piggy'
 };
+    
+    const {name, color, song, job, partner} = muppet;
 
 const k_muppet = {
   k_name: 'Kermit',
