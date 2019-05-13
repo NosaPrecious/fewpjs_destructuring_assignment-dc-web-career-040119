@@ -35,4 +35,6 @@ const k_muppet = {
   k_partner: 'Miss Piggy'
 };
 
+const {
+
 const {name, color, song, job, partner} = muppet;
